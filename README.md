@@ -158,7 +158,7 @@ such as ‘Release 1.0’ instead of r4
     > 6. git diff
     > 7. git add report_card.c
     > 8. git commit -sm "report card: Get a average of grades"
-  - ** Stage4**
+  - **Stage4**
     > 1. git status
     > 2. git shortlog
     > 3. git remote add origin https://github.com/sieun1803/git-training.git
